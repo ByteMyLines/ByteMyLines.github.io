@@ -13,23 +13,17 @@ comments: false
 * Team player, friendly, self-motivated and likes to take initiative          
 * Strong written and verbal communication skills
 * Well-developed problem-solving skills including analysis and evaluation
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<H5><center> Technical </center></h5> 
+* Advanced skills in Microsoft Office – Including Word, Excel, Outlook and PowerPoint
+* Typing proficiency of 95 WPM with 100% accuracy
+* Exposure in C++ Language, HTML, Visual Basics, and CSS Coding 
 
-## Preview
+## <center> Key Achievements </center>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+*	Recognised by Area Manager for providing a consistently high level of customer service based upon mystery shopper results during peak retail trade – End of financial year trade
+*	Selected as part of an elite team to assist in the store set up of flagship stores of H&M Perth and H&M Canberra including the coaching and training of new employees and successful handling of customer escalations
+*   Exceeded expectations of Store Manager in the successful marketing transformation of Big W (Westfield Southland) by leading a team of five to complete whole store change-over in one night shift
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
 
