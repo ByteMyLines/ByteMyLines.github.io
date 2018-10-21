@@ -6,7 +6,7 @@ date: 2018-10-21
 comments: false
 ---
     
-<center>##Professional Summary</center>
+##<center>Professional Summary</center>
 
 ## Hobbies
 * Minimal, you can focus on your content
