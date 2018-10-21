@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Body mechanic"
+title:  "Body Mechanic"
 date:   2018-10-22
 excerpt: "Looking to get fitter, better, stronger."
 project: true
