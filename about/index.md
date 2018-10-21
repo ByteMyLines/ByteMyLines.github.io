@@ -23,10 +23,3 @@ comments: false
 *	Recognised by Area Manager for providing a consistently high level of customer service based upon mystery shopper results during peak retail trade – End of financial year trade
 *	Selected as part of an elite team to assist in the store set up of flagship stores of H&M Perth and H&M Canberra including the coaching and training of new employees and successful handling of customer escalations
 *   Exceeded expectations of Store Manager in the successful marketing transformation of Big W (Westfield Southland) by leading a team of five to complete whole store change-over in one night shift
-
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
