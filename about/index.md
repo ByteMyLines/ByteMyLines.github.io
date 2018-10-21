@@ -10,9 +10,9 @@ comments: false
 
 <h2 align=center>  Keys and Strengths </h2>
 <H5 align=center> Personal </h5>
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
+* Team player, friendly, self-motivated and likes to take initiative          
+* Strong written and verbal communication skills
+* Well-developed problem-solving skills including analysis and evaluation
 * Syntax highlighting
 * Optional post image
 * Social icons
