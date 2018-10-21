@@ -6,9 +6,10 @@ date: 2018-10-21
 comments: false
 ---
     
-##<center>Professional Summary</center>
+<center>A Bachelor of Business (Information Systems) Graduate with a reputation for being reliable and hardworking. Passionate in troubleshooting complex issues and creating optimal solutions. Demonstrates the ability to lead, work autonomously and within a team, communicates and builds rapport to various stakeholders.</center>
 
-## Hobbies
+## Keys and Strengths
+<h1> Personal </h1>
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
