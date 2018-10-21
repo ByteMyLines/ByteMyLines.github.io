@@ -8,7 +8,7 @@ comments: false
     
 <center>A Bachelor of Business (Information Systems) Graduate with a reputation for being reliable and hardworking. Passionate in troubleshooting complex issues and creating optimal solutions. Demonstrates the ability to lead, work autonomously and within a team, communicates and builds rapport to various stakeholders.</center>
 
-<h2><center>  Keys and Strengths </center></h2>
+<h2><center>  Skills and Strengths </center></h2>
 <H5><center> Personal </center></h5>
 * Team player, friendly, self-motivated and likes to take initiative          
 * Strong written and verbal communication skills
