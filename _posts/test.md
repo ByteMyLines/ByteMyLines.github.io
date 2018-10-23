@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "This is a test page"
-date:   2018-10-23
-excerpt: "Hi guys."
-project: true
+title:  "please add to post list"
+date:   2018-10-22
+excerpt: "trial"
 tag:
-- blog
-- test
+- sample
+- post
 - trial
 comments: true
 ---
-
-<center> Hello world! </center>
+Hello World!
