@@ -6,7 +6,7 @@ excerpt: "trial"
 tag:
 - sample
 - post
-- trial
+- video
 comments: true
 ---
 Hello World!
