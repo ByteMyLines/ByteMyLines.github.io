@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Testing to see if this page will be included"
-date: 23-10-2018
-excerpt: "hey man please look at me"
-project: true 
-tags: [sample post, readability, test]
+title:  "This is a test page"
+date:   2018-10-23
+excerpt: "Hi guys."
+project: true
+tag:
+- blog
+- test
+- trial
 comments: true
 ---
 
